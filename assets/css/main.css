@@ -182,7 +182,7 @@
         width: 100%;
     }
     .section-3 .cont-sec-r, .section-3 .cont-sec-l{
-        align-self: unset;
+        align-self: center;
     }
     .section-4 .contact{
         max-width: unset;
