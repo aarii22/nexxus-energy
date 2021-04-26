@@ -16,6 +16,9 @@
 .outer-nav > li::before{
     background-color: #fff;
 }
+.header--nav-toggle span, .header--nav-toggle::before, .header--nav-toggle::after{
+    background-color: black;
+}
 /* Section 1 */
 .intro--banner .cta{
     color: black;
