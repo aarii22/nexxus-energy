@@ -23,6 +23,10 @@
 .header--nav-toggle span, .header--nav-toggle::before, .header--nav-toggle::after{
     background-color: black;
 }
+/* Header */
+.header img{
+    margin-top: 25px;
+}
 /* Section 1 */
 .intro--banner .cta{
     color: black;
