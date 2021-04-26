@@ -137,6 +137,7 @@
 }
 .section-4 ul{
     padding-left: 16px;
+    list-style-type: disc;
 }
 .section-4 ul li{
     font-size: 14px;
