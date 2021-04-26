@@ -153,12 +153,12 @@
     }
 }
 @media (max-width: 767px) {
-    #videoBG {
+    /* #videoBG {
         display: none;
     }
     #viewport{
         background: white;
-    }
+    } */
 }
 @media (max-width: 991px){
     .d-flex{
