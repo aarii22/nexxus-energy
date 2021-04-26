@@ -345,12 +345,21 @@ body img{
     }
     .section-5 .cont-sec-r img{
         margin: 0;
+        width: 100%;
+        max-width: 100%;
     }
     .section-6 .executive-cont{
         max-width: 100%;
     }
     .section-6 img{
         max-width: 100%;
+    }
+    .section-5 .swiper-container img{
+        width: 40%;
+        margin: 0%;
+    }
+    .section-5 .swiper-container .d-flex{
+        align-items: center;
     }
 }
 @media (max-width: 1180px){
