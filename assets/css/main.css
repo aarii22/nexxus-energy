@@ -75,6 +75,7 @@ body img{
 }
 .section-2 .cont-sec-r p{
     margin: -35px 0px 0px 0px;
+    text-align: left;
 }
 .section-2 .cont-sec-r .bg-sec{
     padding: 30px 40px;
@@ -305,6 +306,9 @@ body img{
     .section {
         overflow: auto;
     }
+    .section p{
+        text-align: center;
+    }
     .section-2 .work,
     .section-3 .about,
     .section-4 .contact,
@@ -334,6 +338,9 @@ body img{
     .section-3 .cont-sec-r, .section-3 .cont-sec-l{
         align-self: center;
     }
+    .section-3 .cont-sec-l p{
+        text-align: left;
+    }
     .section-4 .contact{
         max-width: unset;
     }
@@ -360,6 +367,9 @@ body img{
     }
     .section-5 .swiper-container .d-flex{
         align-items: center;
+    }
+    .section-7 p{
+        text-align: left;
     }
 }
 @media (max-width: 1180px){
