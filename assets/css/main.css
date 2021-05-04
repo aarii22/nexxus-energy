@@ -342,7 +342,7 @@ body img{
     font-size: 15px;
     letter-spacing: 1px;
     font-weight: 300;
-    width: 100%;
+    width: 105%;
 }
 .section-7 form .row:last-child{
     text-align: center;
@@ -454,6 +454,9 @@ body img{
     }
     .section-7 .input-field input{
         width: auto;
+    }
+    .section-7 form .primary-btn{
+        width: 100%;
     }
 }
 @media (max-width: 1180px){
