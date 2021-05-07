@@ -83,6 +83,9 @@ body img{
     height: unset;
     padding-bottom: 150px;
 }
+.intro--banner::after{
+    background-color: white;
+}
 /* Section 2 */
 .section-2 .work{
     width: unset !important;
