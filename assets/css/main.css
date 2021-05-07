@@ -50,6 +50,15 @@ body img{
     visibility: visible;
     opacity: 1;
 }
+.outer-nav>li::before{
+    display: none;
+}
+.side-nav li.is-active span{
+    text-decoration: underline;
+}
+.is-vis.is-active{
+    color: darkslategray;
+}
 /* Header */
 .header img{
     margin-top: 25px;
