@@ -7,6 +7,9 @@
 #viewport{
     background: white;
 }
+.min-video{
+    display: none;
+}
 .d-flex{
     display: flex;
 }
@@ -385,6 +388,12 @@ body img{
     }
     .section p{
         text-align: center;
+    }
+    .min-video{
+        display: block;
+    }
+    .max-video{
+        display: none;
     }
     .section-2 .work,
     .section-3 .about,
